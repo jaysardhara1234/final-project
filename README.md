@@ -63,31 +63,6 @@ The analysis is performed using Python in a Jupyter Notebook environment, levera
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Clone this repository:
-
-   ```
-   git clone <your-repo-link>
-   ```
-2. Navigate to the project folder:
-
-   ```
-   cd ai-job-analysis
-   ```
-3. Install dependencies:
-
-   ```
-   pip install pandas numpy matplotlib seaborn
-   ```
-4. Run the Jupyter Notebook:
-
-   ```
-   jupyter notebook Ai_Job_Analysis.ipynb
-   ```
-
----
-
 ## 📈 Future Improvements
 
 * Add machine learning models for prediction
